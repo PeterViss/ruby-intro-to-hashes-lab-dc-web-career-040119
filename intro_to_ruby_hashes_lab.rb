@@ -1,5 +1,6 @@
 def new_hash
-
+:hashes => {}
+return hashes 
 end
 
 def actor
